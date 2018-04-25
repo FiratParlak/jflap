@@ -1,0 +1,18 @@
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\obj\Debug\jflap.csprojResolveAssemblyReference.cache
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\obj\Debug\jflap.Form1.resources
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\obj\Debug\jflap.Properties.Resources.resources
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\obj\Debug\jflap.csproj.GenerateResource.Cache
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\bin\Debug\jflap.exe.config
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\bin\Debug\jflap.exe
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\bin\Debug\jflap.pdb
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\obj\Debug\jflap.exe
+c:\users\m_sar\documents\visual studio 2017\Projects\jflap\jflap\obj\Debug\jflap.pdb
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\bin\Debug\jflap.exe.config
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\obj\Debug\jflap.exe
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\obj\Debug\jflap.pdb
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\bin\Debug\jflap.exe
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\bin\Debug\jflap.pdb
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\obj\Debug\jflap.csprojResolveAssemblyReference.cache
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\obj\Debug\jflap.Form1.resources
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\obj\Debug\jflap.Properties.Resources.resources
+C:\Users\frtpa\Downloads\Compressed\jflap_2\jflap\jflap\obj\Debug\jflap.csproj.GenerateResource.Cache
